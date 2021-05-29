@@ -1,0 +1,22 @@
+::-webkit-scrollbar {
+  width: 0px;
+}
+
+th {
+  color: #fff;
+}
+
+.json {
+  white-space: pre;
+  font-size: 16px;
+}
+
+.showData {
+  text-align: center;
+  margin-left: 20px;
+}
+
+span {
+  color: rgb(126, 126, 126);
+  font-size: 14px;
+}
